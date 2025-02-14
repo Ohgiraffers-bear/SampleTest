@@ -1,3 +1,5 @@
 # hello capy
 ## update1
-## update2
+
+## feature/life update1
+>>>>>>> feature/life
